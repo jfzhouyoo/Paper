@@ -17,7 +17,7 @@
   (3) [Improving Conversational Recommender Systems viaKnowledge Graph based Semantic Fusion.](https://arxiv.org/abs/2007.04032) **KDD 2020** [Dataset:REDIAL]
 
 ### 1.1.4 Goal-driven CRS
-   (1) [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue.]() **EMNLP 2019** [[dataset:GoRecDial]](https://drive.google.com/drive/folders/1nilk6FUktW2VjNlATdM0VMehzSOPIvJ0?usp=sharing)
+   (1) [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue.]() **EMNLP 2019** [[Dataset:GoRecDial]](https://drive.google.com/drive/folders/1nilk6FUktW2VjNlATdM0VMehzSOPIvJ0?usp=sharing)
   
   (2) [Towards Conversational Recommendation over Multi-Type Dialogs.](https://arxiv.org/abs/2005.03954) **ACL 2020** [Dataset:DuRecDial]
 
