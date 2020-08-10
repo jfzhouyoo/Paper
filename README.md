@@ -28,4 +28,4 @@
 
 
 ## 1.2 Interactive Recommender System
-(1) [Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.](https://arxiv.org/pdf/2006.10389) **SIGIR 2020**
+(1) [Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.](https://arxiv.org/pdf/2006.10389) **SIGIR 2020** [Dataset: [Movielens-20M](https://grouplens.org/datasets/movielens/), [Book-Crossing](http://www2.informatik.uni-freiburg.de/∼cziegler/BX/)]
