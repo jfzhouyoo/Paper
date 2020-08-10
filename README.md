@@ -10,7 +10,7 @@
   (2) [Estimation–Action–Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.](https://arxiv.org/abs/2002.09102) **WSDM 2020** [[code]](https://ear-conv-rec.github.io/) [Dataset:Yelp]
   
 ### 1.1.3 Open-domain CRS
-  (1) [Towards Deep Conversational Recommendations.](https://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations) **NIPS 2018** [[dataset:REDIAL]](https://redialdata.github.io/website/)
+  (1) [Towards Deep Conversational Recommendations.](https://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations) **NIPS 2018** [[Dataset:REDIAL]](https://redialdata.github.io/website/)
   
   (2) [Towards Knowledge-Based Recommender Dialog System.](https://arxiv.org/abs/1908.05391) **EMNLP 2019** [[code]](https://github.com/THUDM/KBRD?utm_source=catalyzex.com) [Dataset:REDIAL]
   
