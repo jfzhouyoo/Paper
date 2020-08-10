@@ -21,10 +21,10 @@
   
   (2) [Towards Conversational Recommendation over Multi-Type Dialogs.](https://arxiv.org/abs/2005.03954) **ACL 2020** [Dataset:DuRecDial]
 
-  (3) [Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/abs/2007.00194) **KDD 2020** [Dataset:Yelp]
+  (3) [Interactive Path Reasoning on Graph for Conversational Recommendation.](https://arxiv.org/abs/2007.00194) **KDD 2020** [Dataset:Yelp]
 
 ### 1.1.4 Explainable CRS
-  (1) [Towards Explainable Conversational Recommendation](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/ijcai20_camera_ready_conversion.out_.pdf) **IJCAL 2020** [Dataset:Yelp]
+  (1) [Towards Explainable Conversational Recommendation.](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/ijcai20_camera_ready_conversion.out_.pdf) **IJCAL 2020** [Dataset:Yelp]
 
 
 ## 1.2 Interactive Recommender System
