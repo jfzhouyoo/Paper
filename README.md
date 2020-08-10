@@ -26,3 +26,6 @@
 ### 1.1.4 Explainable CRS
   (1) [Towards Explainable Conversational Recommendation](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/ijcai20_camera_ready_conversion.out_.pdf) **IJCAL 2020** [Dataset:Yelp]
 
+
+## 1.2 Interactive Recommender System
+(1) [Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.](https://arxiv.org/pdf/2006.10389) **SIGIR 2020**
