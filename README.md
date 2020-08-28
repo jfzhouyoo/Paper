@@ -29,3 +29,8 @@
 
 ## 1.2 Interactive Recommender System
 (1) [Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.](https://arxiv.org/pdf/2006.10389) **SIGIR 2020** [Dataset: [Movielens-20M](https://grouplens.org/datasets/movielens/), [Book-Crossing](http://www2.informatik.uni-freiburg.de/∼cziegler/BX/)]
+
+## 1.3 Explainable Recommender System
+(1) [Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs.](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/sigir_RLRec_camera_ready.pdf) **SIGIR 2020** [Dataset:[Amazon 5-core]](http://jmcauley.ucsd.edu/data/amazon)
+
+(2) [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237) **SIGIR 2019** [Dataset:Amazon] [Code](https://github.com/orcax/PGPR)
