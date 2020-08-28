@@ -33,4 +33,4 @@
 ## 1.3 Explainable Recommender System
 (1) [Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs.](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/sigir_RLRec_camera_ready.pdf) **SIGIR 2020** [Dataset:[Amazon 5-core]](http://jmcauley.ucsd.edu/data/amazon)
 
-(2) [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237) **SIGIR 2019** [Dataset:Amazon] [Code](https://github.com/orcax/PGPR)
+(2) [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237) **SIGIR 2019** [Dataset:Amazon] [[code]](https://github.com/orcax/PGPR)
