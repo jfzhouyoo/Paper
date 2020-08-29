@@ -26,6 +26,9 @@
 ### 1.1.4 Explainable CRS
   (1) [Towards Explainable Conversational Recommendation.](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/ijcai20_camera_ready_conversion.out_.pdf) **IJCAL 2020** [Dataset:Yelp]
 
+### 1.1.5 Related
+(1) [OpenDialKG:Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graph.](https://www.aclweb.org/anthology/P19-1081) **ACL2019** [[Dataset:OpenDialKG]](https://github.com/facebookresearch/opendialkg) [[code]](https://github.com/madcpt/OpenDialKG)
+
 
 ## 1.2 Interactive Recommender System
 (1) [Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.](https://arxiv.org/pdf/2006.10389) **SIGIR 2020** [Dataset: [Movielens-20M](https://grouplens.org/datasets/movielens/), [Book-Crossing](http://www2.informatik.uni-freiburg.de/∼cziegler/BX/)]
