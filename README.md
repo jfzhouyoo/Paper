@@ -9,6 +9,10 @@
   
   (2) [Estimation–Action–Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.](https://arxiv.org/abs/2002.09102) **WSDM 2020** [[code]](https://ear-conv-rec.github.io/) [Dataset:Yelp]
   
+  (3) [Towards Conversational Search and Recommendation.](http://yongfeng.me/attach/conv-search-rec-zhang2018.pdf) **CIKM 2019** [[Dataset:Amazon]](http://yongfeng.me/dataset)
+  
+  (4)[Latent Linear Critiquing for Conversational Recommender Systems.](https://ssanner.github.io/papers/www20_llc.pdf) **WWW 2020** [[code]](https://github.com/k9luo/LatentLinearCritiquingforConvRecSys) [Dataset:Amazon]
+  
 ### 1.1.3 Open-domain CRS
   (1) [Towards Deep Conversational Recommendations.](https://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations) **NIPS 2018** [[Dataset:REDIAL]](https://redialdata.github.io/website/)
   
